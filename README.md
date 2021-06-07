@@ -9,6 +9,8 @@ wireless sensor networks using set of sensors for data acquisition. This data in
 to send the alerts on android devices and websites 
 
 
+<h2> Dependencies for Hardware </h2>
+
 ADXL345
 Sparkfun's I2C/SPI Arduino Library for ADXL345
 
